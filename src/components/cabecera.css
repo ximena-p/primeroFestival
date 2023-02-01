@@ -1,0 +1,17 @@
+.section-header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(236, 117, 20);
+    height: 50%;
+    z-index: 5;
+}
+
+.img{
+    height: 100%;
+    width: 200px
+}
+
+h1{
+	font-family: 'Courgette', cursive;
+    text-align:center;
+}
