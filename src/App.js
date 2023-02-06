@@ -2,6 +2,8 @@ import logo from './logo-slogan.jpeg';
 import './App.css';
 import Cabecera from './components/cabecera';
 import Seccion from './components/seccion'
+import Cuerpo from './components/cuerpo' 
+import Footer from './components/footer'
 
 function App() {
   return (
@@ -27,6 +29,8 @@ function App() {
                     <div>   <img src="http://www.pngmart.com/files/1/Realistic-Autumn-Fall-Leaves-PNG.png" height="75px" width="75px"/></div>
                 </div>
       </header>
+      <Cuerpo/>
+      <Footer/>
     </div>
   );
 }

@@ -6,12 +6,55 @@
     z-index: 5;
 }
 
+.red{
+    height: 70px;
+}
+
 .img{
     height: 100%;
+    width: 400px
+}
+.logo{
     width: 200px
 }
 
+
 h1{
-	font-family: 'Courgette', cursive;
+	font-family: 'Aboreto', cursive;
     text-align:center;
+}
+
+@media screen and (max-width: 1600px){
+    .img{
+        height: 100%;
+        width: 300px
+    }
+}
+@media screen and (max-width: 999px){
+    .img{
+        height: 100%;
+        width: 200px
+    }
+}
+@media screen and (max-width: 970px){
+    .img{
+        visibility: hidden;
+    }
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    background-color: rgb(236, 117, 20);
+    color: white;
+    height: 50%;
+    z-index: 5;
+}
+
+
+.redes-s{
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
 }

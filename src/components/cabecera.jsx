@@ -15,7 +15,7 @@ export default class cabecera extends Component{
                 </div>
                 <div>
                 <h1>PRIMERO FESTIVAL</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum sequi sit, deserunt explicabo in iste fugit veniam similique labore voluptas mollitia corrupti quam totam at, corporis nulla? Dignissimos, soluta commodi!</p>
+                <p>Es un festival cultural organizado para promover y perpetuar la cultura y las costumbres en el departamento de Santander</p>
                 </div>
                 <div className="lado">
                     <img className="img" src={imagen} alt="" />
