@@ -18,6 +18,10 @@
     width: 200px
 }
 
+.lado div p{
+    margin: 10px;
+}
+
 
 h1{
 	font-family: 'Aboreto', cursive;
