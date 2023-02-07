@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/primeroFestival/static/css/main.017dd97a.css",
+    "main.css": "/primeroFestival/static/css/main.9b175a92.css",
     "main.js": "/primeroFestival/static/js/main.23ef2d17.js",
     "static/js/787.6c4e9ba3.chunk.js": "/primeroFestival/static/js/787.6c4e9ba3.chunk.js",
     "static/media/arte-abstracto.webp": "/primeroFestival/static/media/arte-abstracto.38e653e1fc3504ab7a74.webp",
@@ -14,12 +14,12 @@
     "static/media/libro.png": "/primeroFestival/static/media/libro.fc710d4e3d7a6bb10f65.png",
     "static/media/facebook.png": "/primeroFestival/static/media/facebook.34ab107775d1546cbef6.png",
     "index.html": "/primeroFestival/index.html",
-    "main.017dd97a.css.map": "/primeroFestival/static/css/main.017dd97a.css.map",
+    "main.9b175a92.css.map": "/primeroFestival/static/css/main.9b175a92.css.map",
     "main.23ef2d17.js.map": "/primeroFestival/static/js/main.23ef2d17.js.map",
     "787.6c4e9ba3.chunk.js.map": "/primeroFestival/static/js/787.6c4e9ba3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.017dd97a.css",
+    "static/css/main.9b175a92.css",
     "static/js/main.23ef2d17.js"
   ]
 }
