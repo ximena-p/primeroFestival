@@ -112,3 +112,14 @@
 }
 
 
+@media screen and (max-width: 400px){
+  .App-logo{
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 458px){
+  .App-logo{
+    height: 180px;
+  }
+}

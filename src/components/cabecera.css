@@ -38,7 +38,7 @@ h1{
 }
 @media screen and (max-width: 970px){
     .img{
-        visibility: hidden;
+        display: none;
     }
 }
 
