@@ -23,3 +23,10 @@
 .ision{
     margin: 3%;
 }
+
+@media screen and (max-width: 500px){
+    .cuerpo{
+        display: flex;
+        flex-direction: column;
+    }
+}
