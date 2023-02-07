@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/primeroFestival/static/css/main.017dd97a.css",
+    "main.js": "/primeroFestival/static/js/main.23ef2d17.js",
+    "static/js/787.6c4e9ba3.chunk.js": "/primeroFestival/static/js/787.6c4e9ba3.chunk.js",
+    "static/media/arte-abstracto.webp": "/primeroFestival/static/media/arte-abstracto.38e653e1fc3504ab7a74.webp",
+    "static/media/ceramica.png": "/primeroFestival/static/media/ceramica.6477359ab42f95440fff.png",
+    "static/media/email.png": "/primeroFestival/static/media/email.d27389667b81e4a5c88c.png",
+    "static/media/microfono.png": "/primeroFestival/static/media/microfono.48bd786f408845bcc8ef.png",
+    "static/media/cepillo.png": "/primeroFestival/static/media/cepillo.a19daaff95fef6873d19.png",
+    "static/media/instagram.png": "/primeroFestival/static/media/instagram.3c5c461f83cc7069a13f.png",
+    "static/media/logo-slogan.jpeg": "/primeroFestival/static/media/logo-slogan.8414c4beabb11b8d4eb9.jpeg",
+    "static/media/logo-s.jpeg": "/primeroFestival/static/media/logo-s.10bc54f094f39ff7be12.jpeg",
+    "static/media/libro.png": "/primeroFestival/static/media/libro.fc710d4e3d7a6bb10f65.png",
+    "static/media/facebook.png": "/primeroFestival/static/media/facebook.34ab107775d1546cbef6.png",
+    "index.html": "/primeroFestival/index.html",
+    "main.017dd97a.css.map": "/primeroFestival/static/css/main.017dd97a.css.map",
+    "main.23ef2d17.js.map": "/primeroFestival/static/js/main.23ef2d17.js.map",
+    "787.6c4e9ba3.chunk.js.map": "/primeroFestival/static/js/787.6c4e9ba3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.017dd97a.css",
+    "static/js/main.23ef2d17.js"
+  ]
+}
