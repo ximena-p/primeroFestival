@@ -30,3 +30,7 @@
         flex-direction: column;
     }
 }
+
+ul{
+    list-style: none;
+}
