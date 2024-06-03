@@ -1,4 +1,5 @@
 .App {
+  margin: 0;
   text-align: center;
   z-index: 2;
   font-family: 'Aboreto', cursive;
@@ -6,12 +7,12 @@
 }
 
 .App-logo{
-  border-radius: 38%;
+  width: 30%;
 }
 
 .App-header {
-  background-color: #28292b;
-  min-height: 100vh;
+  background-color: #000000;
+  min-height: 80vh; 
   display: flex;
   flex-direction: column;
   align-items: center;

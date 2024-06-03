@@ -1,7 +1,7 @@
 import { Component } from "react";
 import './cuerpo.css'
 
-import imagen from './logo-s.jpeg'
+import imagenL from './primero.jpg'
 
 export default class cuerpo extends Component{
     constructor(props){
@@ -36,7 +36,7 @@ export default class cuerpo extends Component{
                             <li>8 Liderar la realización del festival Primero festival en el municipio de sabana de torres como centro cultural de la provincia de Yariguies y el magdalena medio santandereano.</li>
                         </ul>
                     </div>
-                    <img className=" logo" src={imagen} alt="" />
+                    <img className=" logo" src={imagenL} alt="" />
                 </section>
             </>
         )

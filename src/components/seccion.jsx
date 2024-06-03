@@ -6,6 +6,7 @@ import musica from './microfono.png'
 import literatura from './libro.png'
 
 
+
 export default class seccion extends Component{
     constructor(props){
         super(props);

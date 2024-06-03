@@ -1,18 +1,54 @@
 .section-header{
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
-    background-color: rgb(236, 117, 20);
+    background-color: rgba(248, 94, 33, 0.863);
     height: 50%;
     z-index: 5;
+    position: relative;
+    display: block;
 }
+/*
+.section-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    opacity: 0;
+    color: #fff;
+    background: rgba(244, 98, 58, 0.9);
+    transition: opacity 0.25s ease;
+    text-align: center;
+}
+*/
 
 .red{
     height: 70px;
 }
 
+.lado{
+    z-index: 50;
+    flex-wrap: wrap;
+}
+
+.p{
+    z-index: 100;
+    font-size: 90px;
+}
+
+.lado:hover{
+    opacity: 20%;
+    
+}
+
 .img{
+    width: 100%;
     height: 100%;
-    width: 400px
 }
 .logo{
     width: 200px
@@ -27,22 +63,24 @@ h1{
 	font-family: 'Aboreto', cursive;
     text-align:center;
 }
-
+/*
 @media screen and (max-width: 1600px){
     .img{
-        height: 100%;
-        width: 300px
+        width: 50%;
+        height: auto
     }
 }
 @media screen and (max-width: 999px){
     .img{
-        height: 100%;
-        width: 200px
+        width: 50%;
+        height: auto
     }
 }
+*/
 @media screen and (max-width: 970px){
-    .img{
-        display: none;
+    .lado{
+        flex-direction: column;
+        display: block;
     }
 }
 
