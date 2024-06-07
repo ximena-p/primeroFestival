@@ -5,16 +5,12 @@ import Cabecera from './components/cabecera';
 import Seccion from './components/seccion'
 import Cuerpo from './components/cuerpo' 
 import Footer from './components/footer'
-
-import { Routes, Route } from "react-router-dom";
+import Tienda from './components/tienda'
 
 
 function App() {
   return (
     <div className="App">
-      <Routes>
-          <Route path='/' element="{<Cuerpo/>}" />
-        </Routes>
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
         <Seccion/>
@@ -36,6 +32,7 @@ function App() {
                 </div>
       </header>
         <Cabecera/>
+        <Tienda/>
         <Cuerpo/>
       <Footer/>
     </div>

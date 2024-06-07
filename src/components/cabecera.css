@@ -1,12 +1,14 @@
 .section-header{
+    margin-bottom: 15%;
+    align-items: center;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    text-align: center;
+    justify-content: center;
     background-color: rgba(248, 94, 33, 0.863);
-    height: 50%;
+    width: 100%;
     z-index: 5;
     position: relative;
-    display: block;
 }
 /*
 .section-header{
@@ -31,8 +33,14 @@
     height: 70px;
 }
 
+.titulo{
+    color: aliceblue;
+    font-size: 90px;
+}
+
 .lado{
     z-index: 50;
+    width: 50%;
     flex-wrap: wrap;
 }
 

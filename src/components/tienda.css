@@ -1,0 +1,14 @@
+
+
+.tienda img{
+    width: 80%;
+    height: auto;
+}
+.tienda{
+    color: antiquewhite;
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
