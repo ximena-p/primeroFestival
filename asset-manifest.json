@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/primeroFestival/static/css/main.4050ab81.css",
-    "main.js": "/primeroFestival/static/js/main.6df1c03e.js",
+    "main.css": "/primeroFestival/static/css/main.fb5e90fd.css",
+    "main.js": "/primeroFestival/static/js/main.966a1f98.js",
     "static/js/787.6c4e9ba3.chunk.js": "/primeroFestival/static/js/787.6c4e9ba3.chunk.js",
-    "static/media/arte-abstracto.webp": "/primeroFestival/static/media/arte-abstracto.38e653e1fc3504ab7a74.webp",
+    "static/media/tienda.jpg": "/primeroFestival/static/media/tienda.f8f4d33b77ed74cf13e4.jpg",
+    "static/media/noticias.webp": "/primeroFestival/static/media/noticias.90dc5429860bf6780e53.webp",
+    "static/media/manatiCjs.jpg": "/primeroFestival/static/media/manatiCjs.a4b64556549dd7f2eaa6.jpg",
+    "static/media/manati.jpg": "/primeroFestival/static/media/manati.7c5b39a31f87c871fa47.jpg",
+    "static/media/noticia2.jpg": "/primeroFestival/static/media/noticia2.989b29960e2fc21e2188.jpg",
+    "static/media/notici4.jpg": "/primeroFestival/static/media/notici4.5a1c401cb7ec1ce3a989.jpg",
+    "static/media/noticia3.jpg": "/primeroFestival/static/media/noticia3.9676da74bd22a3572854.jpg",
+    "static/media/noticia1.jpg": "/primeroFestival/static/media/noticia1.3768481d9f243c04aa5e.jpg",
+    "static/media/primero.jpg": "/primeroFestival/static/media/primero.dfba79131ee74c75996c.jpg",
     "static/media/ceramica.png": "/primeroFestival/static/media/ceramica.6477359ab42f95440fff.png",
     "static/media/email.png": "/primeroFestival/static/media/email.d27389667b81e4a5c88c.png",
     "static/media/microfono.png": "/primeroFestival/static/media/microfono.48bd786f408845bcc8ef.png",
     "static/media/cepillo.png": "/primeroFestival/static/media/cepillo.a19daaff95fef6873d19.png",
     "static/media/instagram.png": "/primeroFestival/static/media/instagram.3c5c461f83cc7069a13f.png",
-    "static/media/logo-slogan.jpeg": "/primeroFestival/static/media/logo-slogan.8414c4beabb11b8d4eb9.jpeg",
-    "static/media/logo-s.jpeg": "/primeroFestival/static/media/logo-s.10bc54f094f39ff7be12.jpeg",
     "static/media/libro.png": "/primeroFestival/static/media/libro.fc710d4e3d7a6bb10f65.png",
     "static/media/facebook.png": "/primeroFestival/static/media/facebook.34ab107775d1546cbef6.png",
     "index.html": "/primeroFestival/index.html",
-    "main.4050ab81.css.map": "/primeroFestival/static/css/main.4050ab81.css.map",
-    "main.6df1c03e.js.map": "/primeroFestival/static/js/main.6df1c03e.js.map",
+    "main.fb5e90fd.css.map": "/primeroFestival/static/css/main.fb5e90fd.css.map",
+    "main.966a1f98.js.map": "/primeroFestival/static/js/main.966a1f98.js.map",
     "787.6c4e9ba3.chunk.js.map": "/primeroFestival/static/js/787.6c4e9ba3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4050ab81.css",
-    "static/js/main.6df1c03e.js"
+    "static/css/main.fb5e90fd.css",
+    "static/js/main.966a1f98.js"
   ]
 }
