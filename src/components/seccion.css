@@ -12,20 +12,20 @@
 }
 
 .sub-categoria img{
-    height: 100px;
-    width: auto;
+    width: 50%;
+    height: auto;
 }
 
 @media screen and (max-width: 400px){
-    .sub-categoria img{
-    height: 80px;
-    width: auto;
+    .section {
+        display: flex;
+        flex-direction: column;
     }
 }
 
-@media screen and (max-width: 426px){
-    .sub-categoria img{
-    height: 70px;
-    width: auto;
+@media screen and (max-width: 300px){
+    .section {
+        display: flex;
+        flex-direction: column;
     }
 }
