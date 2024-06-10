@@ -1,7 +1,9 @@
 import { Component} from "react";
 import './cabecera.css';
-import imagenTienda from './tienda.jpg';
-import imagenNoticias from './noticias.webp'
+{//import imagenTienda from './tienda.jpg';
+}
+    {//import imagenNoticias from './noticias.webp'
+}
 
 
 export default class cabecera extends Component{
