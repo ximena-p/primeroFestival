@@ -21,6 +21,10 @@
         display: flex;
         flex-direction: column;
     }
+    
+    .sub-categoria img{
+        width: 25%;
+    }
 }
 
 @media screen and (max-width: 300px){
